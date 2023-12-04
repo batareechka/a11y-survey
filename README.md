@@ -12,7 +12,9 @@ It's an invaluable tool for identifying training needs, potential accessibility 
 Feel free to use, modify, or contribute to this survey to help promote digital accessibility within your team or community. Let's work together to make our digital world more accessible for everyone!
 
 
-## Digital Accessibility Survey: Expertise & Interest
+## Survey content
+
+### Digital Accessibility Survey: Expertise & Interest
 
 ### Description
 Welcome to our Digital Accessibility Expertise and Interest Survey. This quick survey is a step towards understanding our collective knowledge and interests in digital accessibility within the team
