@@ -14,7 +14,8 @@ Feel free to use, modify, or contribute to this survey to help promote digital a
 
 ## Survey content
 
-### Digital Accessibility Survey: Expertise & Interest
+### Title
+Digital Accessibility Survey: Expertise & Interest
 
 ### Description
 Welcome to our Digital Accessibility Expertise and Interest Survey. This quick survey is a step towards understanding our collective knowledge and interests in digital accessibility within the team
